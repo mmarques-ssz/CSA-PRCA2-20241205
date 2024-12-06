@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\projLeds\projLeds\bin\Debug\projLeds.exe.config
+C:\Users\aluno\source\repos\projLeds\projLeds\bin\Debug\projLeds.exe
+C:\Users\aluno\source\repos\projLeds\projLeds\bin\Debug\projLeds.pdb
+C:\Users\aluno\source\repos\projLeds\projLeds\obj\Debug\projLeds.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\projLeds\projLeds\obj\Debug\projLeds.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\projLeds\projLeds\obj\Debug\projLeds.Form1.resources
+C:\Users\aluno\source\repos\projLeds\projLeds\obj\Debug\projLeds.Properties.Resources.resources
+C:\Users\aluno\source\repos\projLeds\projLeds\obj\Debug\projLeds.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\projLeds\projLeds\obj\Debug\projLeds.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\projLeds\projLeds\obj\Debug\projLeds.exe
+C:\Users\aluno\source\repos\projLeds\projLeds\obj\Debug\projLeds.pdb
